@@ -1,0 +1,53 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.header__content{
+    margin: 0 auto;
+    position: relative;
+    max-width: 2000px;
+    width: 100%;
+    justify-content: center;
+}
+.first{
+height: 800px;
+width: 1000px;
+}
+.second{
+    position: absolute;
+    top: 0;
+    right: 0;
+    left: 1000px;
+height: 800px;
+    width: 1000px;
+    }
+.third{
+height: 800px;
+width: 1000px;
+}
+.fourth{
+    position: absolute;
+    top: 800px;
+    right: 0;
+    left: 1000px;
+    height: 800px;
+    width: 1000px;
+    }
+.fifth{
+height: 800px;
+width: 1000px;
+}
+.sixth{
+    position: absolute;
+    top: 1600px;
+    right: 0;
+    left: 1000px;
+    height: 800px;
+    width: 1000px;
+    }
+ img{
+    width: 100%;
+    height: 100%;
+ object-fit: cover;
+}
